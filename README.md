@@ -176,3 +176,4 @@ instance-3                 : ok=3    changed=1    unreachable=0    failed=0    s
 
 ```
 
+![](https://github.com/vasyos/GL_BaseCamp_task_01_ansible/blob/main/playbook.JPG)
