@@ -1,1 +1,0 @@
-# GL_BaseCamp_task_01_ansible
